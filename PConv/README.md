@@ -1,5 +1,6 @@
 # PointConv-Ras
-This folder contains the code for the following work incorporated with our PointRas. 
+This folder contains the code for the following work incorporated with our PointRas: 
+
 **PointConv: Deep Convolutional Networks on 3D Point Clouds.** CVPR 2019  
 Wenxuan Wu, Zhongang Qi, Li Fuxin.
 
