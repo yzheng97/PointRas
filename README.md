@@ -1,5 +1,5 @@
 # PointRas: Uncertainty-Aware Multi-Resolution Learning for Point Cloud Segmentation
-<img src="./figure/PointRas.png" width="900"/>
+<img src="./figure/PointRas.png" width="600"/>
 
 by [Yu Zheng](https://yzheng97.github.io/), [Xiuwei Xu](https://xuxw98.github.io/), [Jie Zhou](https://www.au.tsinghua.edu.cn/info/1078/3126.htm), and [Jiwen Lu#](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/).
 
